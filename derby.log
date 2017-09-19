@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Sep 19 09:58:34 CDT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-015e-9aa5-da9c-0000127dfc68 
+on database directory memory:C:\Users\v.escalona.blanco\AnypointStudio\workspace\osos\muleEmbeddedDB with class loader org.mule.module.launcher.MuleApplicationClassLoader[osos]@20732149 
+Loaded from file:/C:/Users/v.escalona.blanco/AnypointStudio/workspace/.mule/apps/osos/lib/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b11
+user.dir=C:\Users\v.escalona.blanco\AnypointStudio\workspace\osos
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
