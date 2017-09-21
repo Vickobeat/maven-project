@@ -19,7 +19,7 @@ http://www.mulesoft.org/schema/mule/jms http://www.mulesoft.org/schema/mule/jms/
     <jms:activemq-connector name="Active_MQ2" brokerURL="vm://localhost" validateConnections="true" doc:name="Active MQ"/>
     <flow name="ososFlow">
         <http:listener config-ref="HTTP_Listener_Configuration" path="/hello" allowedMethods="GET" doc:name="HTTP"/>
-        <set-payload value="#['Hello Maven']" doc:name="return Hello Maven"/>
+        <set-payload value="#['Hello Maven']" doc:name=" Hello Maven"/>
     </flow>
     <flow name="retrieveFlights">
         <http:listener config-ref="HTTP_Listener_Configuration" path="/flights" allowedMethods="GET" doc:name="HTTP"/>
